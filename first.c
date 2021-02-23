@@ -1,5 +1,6 @@
 /*
  *   This is the secret file that will completely transform the project.
+ *   It would be better with this additional line.
  */
 
 #define ERROR(S) \
